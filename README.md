@@ -6,6 +6,8 @@ qq裙号`881417303`
 **小程序官方开发文档** https://opendocs.alipay.com/mini/development
 
 hello
+ultra
+
 # 技术栈
 
 支付宝小程序使用的前端技术栈`JS/ACSS/AXML/JSON`,这就意味着JS是必须进行学习的, 类似于常见的H5前端技术栈, 但是它并不运行在浏览器客户端也不是在node啥的 只能使用支付宝的`api `
